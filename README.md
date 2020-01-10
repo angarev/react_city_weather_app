@@ -14,7 +14,9 @@ This app utilizes:
 
 
 
-[App preview](image/weather_app.gif)
+[React-Redux weather app](https://i.imgur.com/M8f1XzO.gifv)
+
+
 
 ## Setup app locally
 
@@ -23,4 +25,7 @@ This app utilizes:
 npm install
 ```
 2. Sign-up for [OpenWeatherMap Account](https://home.openweathermap.org/users/sign_up) and get the free API key. Replace the variable ```API_KEY``` value with this key in the file ```index.js``` inside actions folder.
-3. Open command prompt and run ```npm start```
+3. Open command prompt and run 
+```
+npm start
+```
