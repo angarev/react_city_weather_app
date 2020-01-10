@@ -18,7 +18,7 @@ This app utilizes:
 
 
 
-## Setup app locally
+## Set up app locally
 
 1. Install all dependencies with below command
 ```
