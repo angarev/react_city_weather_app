@@ -1,0 +1,15 @@
+.ui.celled.table th,
+.ui.celled.table td {
+    vertical-align: middle !important;
+    text-align: center;
+}
+
+svg {
+    height: 130px;
+}
+
+.ui.celled.table td:first-of-type,
+.ui.celled.table td:first-of-type > div {
+    height: 300px !important;
+    width: 250px !important;
+}
