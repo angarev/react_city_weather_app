@@ -14,7 +14,7 @@ This app utilizes:
 
 
 
-[React-Redux weather app](https://i.imgur.com/M8f1XzO.gifv)
+![React-Redux weather app](https://i.imgur.com/M8f1XzO.gif)
 
 
 
